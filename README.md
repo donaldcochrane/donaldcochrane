@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @donaldcochrane
-- 👀 I’m interested in Software and Networking
+- 👀 I’m interested in Software Engineering and Networking
 - 🌱 I’m currently learning to be a better Python Programmer
 - 💞️ I’m looking to collaborate on Network Security and Protocol projects
 - 📫 How to reach me doncochrane@metrocast.net
